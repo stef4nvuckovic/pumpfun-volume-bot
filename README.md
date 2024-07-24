@@ -10,7 +10,7 @@ Your essential toolkit for optimizing launches on Pump.Fun. Infinity Scripts off
 
 ### Youtube Video
 
-[click](https://www.youtube.com/watch?v=KlkdNNud5zs)
+[🎥 LINK](https://www.youtube.com/watch?v=KlkdNNud5zs)
 
 
 > [!NOTE]
