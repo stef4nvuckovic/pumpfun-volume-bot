@@ -2,16 +2,13 @@
 
 Your essential toolkit for optimizing launches on Pump.Fun. Infinity Scripts offers a suite of specialized automation tools designed to streamline project deployment, enhance visibility, and provide real-time analytics within the Pump.Fun ecosystem.
 
-# Website
+# [Website](https://infinityscript.fun/)
 
 [infinityscript.fun](https://infinityscript.fun/)
 
 ![img](https://i.imgur.com/yQBTX6n.png)
 
-### Youtube Video
-
-[🎥 Click to watch video ](https://www.youtube.com/watch?v=KlkdNNud5zs)
-
+### Youtube 🎥[Video](https://www.youtube.com/watch?v=KlkdNNud5zs)
 
 > [!NOTE]
 > Our tools require a license but you can test the features for FREE
