@@ -5,6 +5,10 @@ Your essential toolkit for optimizing launches on Pump.Fun. Infinity Scripts off
 
 ![img](https://i.imgur.com/yQBTX6n.png)
 
+### Youtube Video
+
+[click](https://www.youtube.com/watch?v=KlkdNNud5zs)
+
 
 > [!NOTE]
 > Our tools require a license but you can test the features for FREE
